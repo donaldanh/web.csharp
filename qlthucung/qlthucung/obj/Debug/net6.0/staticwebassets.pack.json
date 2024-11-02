@@ -1,0 +1,673 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\admin\\css\\admin.css",
+      "PackagePath": "staticwebassets\\Content\\admin\\css\\admin.css"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\admin\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\Content\\admin\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\admin\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\Content\\admin\\img\\avatar.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\admin\\img\\logo.jpg",
+      "PackagePath": "staticwebassets\\Content\\admin\\img\\logo.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\admin\\js\\.rescache",
+      "PackagePath": "staticwebassets\\Content\\admin\\js\\.rescache"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\admin\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\Content\\admin\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\admin\\js\\demo.js",
+      "PackagePath": "staticwebassets\\Content\\admin\\js\\demo.js"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\admin\\js\\printThis.js",
+      "PackagePath": "staticwebassets\\Content\\admin\\js\\printThis.js"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\admin\\summernote\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\Content\\admin\\summernote\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\css\\admin.min.css",
+      "PackagePath": "staticwebassets\\Content\\css\\admin.min.css"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\Content\\css\\style.min.css"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\BG-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\BG-1.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\BG-2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\BG-2.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\BG-3.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\BG-3.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\avt.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\avt.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\b1.png",
+      "PackagePath": "staticwebassets\\Content\\images\\b1.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\b2.png",
+      "PackagePath": "staticwebassets\\Content\\images\\b2.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\b3.png",
+      "PackagePath": "staticwebassets\\Content\\images\\b3.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\banner_5-scaled.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\banner_5-scaled.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\bg-hidden.png",
+      "PackagePath": "staticwebassets\\Content\\images\\bg-hidden.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\bg-login.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\bg-login.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\bg1.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\bg1.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\bg1.png",
+      "PackagePath": "staticwebassets\\Content\\images\\bg1.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\bg2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\bg2.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\bg3.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\bg3.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\bg4.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\bg4.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\bg_7.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\bg_7.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\bnn.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\bnn.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\empty_cart.png",
+      "PackagePath": "staticwebassets\\Content\\images\\empty_cart.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\logo - Copy.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\logo - Copy.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\momo.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\momo.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\page.PNG",
+      "PackagePath": "staticwebassets\\Content\\images\\page.PNG"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\pet.png",
+      "PackagePath": "staticwebassets\\Content\\images\\pet.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\search_18px.png",
+      "PackagePath": "staticwebassets\\Content\\images\\search_18px.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\shopping-cart.svg",
+      "PackagePath": "staticwebassets\\Content\\images\\shopping-cart.svg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\svbg.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\svbg.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\svmeo.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\svmeo.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\svmeo2.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\svmeo2.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\svmeo3.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\svmeo3.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\undefind.png",
+      "PackagePath": "staticwebassets\\Content\\images\\undefind.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\user.jpg",
+      "PackagePath": "staticwebassets\\Content\\images\\user.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\scripts\\script.js",
+      "PackagePath": "staticwebassets\\Content\\scripts\\script.js"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\scripts\\zoomsl.min.js",
+      "PackagePath": "staticwebassets\\Content\\scripts\\zoomsl.min.js"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\10-goi-thuc-an-hon-hop-hoan-chinh-cho-meo-cherman-vi-ca-hoi-va-ca-moi-12g-202211091558229804.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\10-goi-thuc-an-hon-hop-hoan-chinh-cho-meo-cherman-vi-ca-hoi-va-ca-moi-12g-202211091558229804.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\2708_Pedigree19112022032807.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\2708_Pedigree19112022032807.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\2708_Pedigree191120220328071.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\2708_Pedigree191120220328071.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\2708_Pedigree1911202203280719112022041526.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\2708_Pedigree1911202203280719112022041526.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\358839814_621929029765851_9155800288078741928_n.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\358839814_621929029765851_9155800288078741928_n.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\5-goi-thuc-an-hon-hop-hoan-chinh-cho-meo-cherman-vi-ca-hoi-12g-202209061336054971.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\5-goi-thuc-an-hon-hop-hoan-chinh-cho-meo-cherman-vi-ca-hoi-12g-202209061336054971.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\5-goi-thuc-an-hon-hop-hoan-chinh-cho-meo-cherman-vi-ca-moi-12g-202209061333290585.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\5-goi-thuc-an-hon-hop-hoan-chinh-cho-meo-cherman-vi-ca-moi-12g-202209061333290585.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\IMG_5318.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\IMG_5318.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\avatar.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\avatar.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\banchailong.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\banchailong.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\batan.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\batan.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\c1.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\c1.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\c10.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\c10.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\c11.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\c11.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\c12.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\c12.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\c13.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\c13.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\c14.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\c14.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\c15.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\c15.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\c17.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\c17.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\c18.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\c18.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\c2.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\c2.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\c3.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\c3.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\c4.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\c4.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\c5.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\c5.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\c5.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\c5.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\c6.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\c6.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\c7.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\c7.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\c7.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\c7.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\c8.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\c8.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\c8.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\c8.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\c9.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\c9.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\camcho.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\camcho.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\camcho22102022053633.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\camcho22102022053633.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\cat-ve-sinh-cho-meo-iris-kfag100-400x400.webp",
+      "PackagePath": "staticwebassets\\Content\\uploads\\cat-ve-sinh-cho-meo-iris-kfag100-400x400.webp"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\cat-ve-sinh-cho-meo-lapaw-huong-tao-bao-8kg-20220906150914328319112022043247.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\cat-ve-sinh-cho-meo-lapaw-huong-tao-bao-8kg-20220906150914328319112022043247.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\cat-ve-sinh-cho-meo-lapaw-huong-tao-bao-8kg-20220906150914328319112022043459.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\cat-ve-sinh-cho-meo-lapaw-huong-tao-bao-8kg-20220906150914328319112022043459.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\cat-ve-sinh-cho-meo-lapaw-huong-tao-bao-8kg-202209061509150536191120220432471.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\cat-ve-sinh-cho-meo-lapaw-huong-tao-bao-8kg-202209061509150536191120220432471.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\cat-ve-sinh-cho-meo-lapaw-huong-tao-bao-8kg-202209061509150536191120220434591.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\cat-ve-sinh-cho-meo-lapaw-huong-tao-bao-8kg-202209061509150536191120220434591.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\doanchomeoloai3.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\doanchomeoloai3.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\dochocho.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\dochocho.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\dohop.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\dohop.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\dohop2.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\dohop2.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\gangtaycho.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\gangtaycho.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\hat-cun-cun-cho-meo-2-min-1-500x500.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\hat-cun-cun-cho-meo-2-min-1-500x500.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\hinhgoc25112022041230.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\hinhgoc25112022041230.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\hinhgoc251120220412301.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\hinhgoc251120220412301.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\husky.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\husky.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\img16.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\img16.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\imgg16.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imgg16.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\imgg63.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imgg63.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\imgg64.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imgg64.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\imgg67.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imgg67.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\imgg68.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imgg68.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\imgg69.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imgg69.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\imgg70.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imgg70.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\imggg63.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imggg63.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\imggg64.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imggg64.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\imggg67.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imggg67.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\imggg68.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imggg68.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\imggg69.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imggg69.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\imggg70.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\imggg70.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\keocho.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\keocho.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\keocho07112022090548.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\keocho07112022090548.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\login_logo.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\login_logo.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\logo02012023013923.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\logo02012023013923.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\logo02012023014001.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\logo02012023014001.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\m10.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\m10.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\m2.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\m2.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\m3.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\m3.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\m4.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\m4.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\m5.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\m5.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\m6.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\m6.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\m7.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\m7.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\m8.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\m8.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\m9.png",
+      "PackagePath": "staticwebassets\\Content\\uploads\\m9.png"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\pate-cho-meo-cherman-ca-ngu-va-ca-hoi-goi-85g-20220901100336479919112022045140.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\pate-cho-meo-cherman-ca-ngu-va-ca-hoi-goi-85g-20220901100336479919112022045140.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\pate-cho-meo-cherman-ca-ngu-va-ca-hoi-goi-85g-202209011003368506191120220451401.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\pate-cho-meo-cherman-ca-ngu-va-ca-hoi-goi-85g-202209011003368506191120220451401.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\pate-cho-meo-cherman-ca-ngu-va-ca-hoi-goi-85g-20220901100337383225112022030244.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\pate-cho-meo-cherman-ca-ngu-va-ca-hoi-goi-85g-20220901100337383225112022030244.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\register.PNG",
+      "PackagePath": "staticwebassets\\Content\\uploads\\register.PNG"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\sellingpoint.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\sellingpoint.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\taymeo.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\taymeo.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\thuc-an-cho-cho-lon-pedigree-vi-ga-va-rau-cu-tui-15kg-202105110829349631.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\thuc-an-cho-cho-lon-pedigree-vi-ga-va-rau-cu-tui-15kg-202105110829349631.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\thuc-an-cho-cho-truong-thanh-smartheart-15kg-1.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\thuc-an-cho-cho-truong-thanh-smartheart-15kg-1.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\thucan.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\thucan.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\tuingumeo.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\tuingumeo.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\vatdungmeo.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\vatdungmeo.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\uploads\\vongdeo.jpg",
+      "PackagePath": "staticwebassets\\Content\\uploads\\vongdeo.jpg"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\jquery-validation\\dist\\.rescache",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\.rescache"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Study\\Ky 6\\DoAnWebNC\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.qlthucung.props",
+      "PackagePath": "build\\qlthucung.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.qlthucung.props",
+      "PackagePath": "buildMultiTargeting\\qlthucung.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.qlthucung.props",
+      "PackagePath": "buildTransitive\\qlthucung.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.qlthucung.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
